@@ -14,3 +14,5 @@ REMEMBER TO "COMMIT" YOUR CHANGES TO THIS FILE!
 # User Guide
 
 > Write a clear user guide for how someone should use your program.
+
+Have a nice weekend!
